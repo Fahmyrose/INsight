@@ -264,7 +264,37 @@ nav ul li:hover a {
 /* Stile del contenuto principale */
 main {
     background-image: url();
-} 
+}
+
+/* Centrare il contenitore dell'indice */
+.indice-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+/* Stile dell'indice */
+.indice {
+    list-style: none;
+    padding: 0;
+}
+
+.indice li {
+    margin: 10px 0;
+}
+
+.indice li a {
+    text-decoration: none;
+    color: #0275d8;
+    font-size: 18px;
+    text-align: center;
+    display: block;
+}
+
+.indice li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+}
 
 /* stile breadcrumb */
 ul.breadcrumb {
@@ -479,7 +509,6 @@ form.example::after {
     text-align: center;
 }
 
-
 /* Metadata container and table styles */
 .metadata-container {
     text-align: center;
@@ -509,7 +538,6 @@ form.example::after {
 .metadata-container th {
     background-color: #f2f2f2;
 }
-
 
 
 /* Stile del banner home */
