@@ -2,3 +2,4 @@
 #### (🔝Click on the name to view the website)
 My first ever website made for a uni project in 2024, for the course "Informatica Umanistica" @ UniBo taught by Prof. Francesca Tomasi before starting the International MA in DHDK.
 
+The website is partly accessible and it is not responsive. I will leave it like this as a reminder of my starting point. I look forward to my progress and growth!
